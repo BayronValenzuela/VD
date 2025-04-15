@@ -1,0 +1,3 @@
+# Datos utilizados
+
+Para los gráficos reliazdos por Francisca Romero se utilizaron dos csv, el que es para sobrepeso se extrajo de la siguiente página https://ourworldindata.org/grapher/children-who-are-overweight-sdgs?time=2002, aqui los datos tiene el formsto de Pais, Año e Indice de sobre peso. Para el relaciona con las caries los datos fueron extraidos de https://www.who.int/data/gho/data/indicators/indicator-details/GHO/prevalence-of-untreated-caries-of-deciduous-teeth-in-children-1-9-years, los datos incluyen varias columnas que son filtradas, ultilizando solo los paies, continente y el valor que corresponde al procetaje de niños con caries en dicho pais el 2019. 
